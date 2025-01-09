@@ -37,4 +37,3 @@ document.querySelectorAll('header a').forEach(anchor => {
       track.style.transform = `translateX(-${currentIndex * productWidth}px)`;
     }
   });
-  
