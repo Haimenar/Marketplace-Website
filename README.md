@@ -1,5 +1,5 @@
 # Marketplace-Website
-This is a basic landing page for a website.
+A basic landing page for a website.
 
 ## What I've Learned
-Designing carousel functionality for displaying products
+Using Javascript to design carousel functionality for displaying products
